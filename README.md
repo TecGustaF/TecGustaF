@@ -22,7 +22,7 @@
   
 </pre>
 
-<img src="https://media.tenor.com/enLBClxEcWMAAAAM/spongebob-technology.gif" height="213px" align="left" />
+<img src="https://media.tenor.com/enLBClxEcWMAAAAM/spongebob-technology.gif" height="413px" align="left" />
 <pre>  
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=-+Contato+-" width="80%"/>
